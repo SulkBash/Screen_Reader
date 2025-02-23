@@ -31,9 +31,21 @@
 ---
 
 ## 🖥️ Usage
+1. **Upload your File**\
+   *Click "Upload File" and select your Image*
 
+2. **View Exctracted Text**\
+   *Text appears directly in the Preview Window! Copy or Save it directly.*
 
 ---
 
+## Contributions are Welcome! 🤝
+1. Fork the Repository
+2. Create your feature branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add some amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
+5. Open a Pull Request
+
+---
 ## 📄 License
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
